@@ -1,0 +1,7 @@
+Cocktail MERN stack app using API
+
+Input your list of ingredients
+Display a list of cocktails you can make
+
+The cocktail DB API
+https://rapidapi.com/thecocktaildb/api/the-cocktail-db
